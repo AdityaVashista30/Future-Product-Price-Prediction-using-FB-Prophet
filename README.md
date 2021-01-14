@@ -13,7 +13,7 @@ For the above three predictions the following graphs are visualized:
     
     1.Date vs Average Price
     2. Trend
-    3.Yearly obseravtion wrt to month
+    3.Yearly observation wrt to month
  
  
  Pre-requiste libraries: fbprophet, seaborn
