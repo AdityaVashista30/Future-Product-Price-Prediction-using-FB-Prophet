@@ -1,5 +1,5 @@
 # Future-Product-Price-Prediction-using-FB-Prophet
-It is a simple price prediction and data visualization project which used Facebook Prophet to make future predictions of prices of Avacado in the USA as a part of a guided project
+It is a simple price prediction and data visualization project which used Facebook Prophet to make future predictions of prices of Avocado in the USA as a part of a guided project
 
 Before predicting future prices, the dataset was visualized and analyzed, as each attribute as compared to the price of the product and categorical attributes were also compared categorically also.
 
